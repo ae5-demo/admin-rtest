@@ -1,0 +1,16 @@
+name: R
+
+description: R
+
+packages:
+  - r
+  - r-base
+  
+channels: [ ]
+
+platforms:
+  - linux-64
+
+env_specs:
+  anaconda44_r: {}
+  
